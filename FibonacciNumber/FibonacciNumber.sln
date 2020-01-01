@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FibonacciNumber", "FibonacciNumber\FibonacciNumber.pyproj", "{6DF09423-B46C-425F-9454-F3D163D243AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DF09423-B46C-425F-9454-F3D163D243AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF09423-B46C-425F-9454-F3D163D243AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED7E9309-EF87-43C2-BB4C-04DB63B07A8F}
+	EndGlobalSection
+EndGlobal

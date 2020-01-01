@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Quicksort2", "Quicksort2\Quicksort2.pyproj", "{F2D7EA69-0393-4581-A718-E93BEC196E3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2D7EA69-0393-4581-A718-E93BEC196E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2D7EA69-0393-4581-A718-E93BEC196E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C240AD2-B262-4FB1-8129-F890ECF4E0C5}
+	EndGlobalSection
+EndGlobal

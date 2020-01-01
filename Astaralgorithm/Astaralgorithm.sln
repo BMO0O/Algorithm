@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Astaralgorithm", "Astaralgorithm\Astaralgorithm.pyproj", "{9964D9F2-DFB7-4E18-8746-72DB58955C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9964D9F2-DFB7-4E18-8746-72DB58955C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9964D9F2-DFB7-4E18-8746-72DB58955C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A82CC2F9-B5BB-4CBB-9030-6203DB554D03}
+	EndGlobalSection
+EndGlobal
